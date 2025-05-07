@@ -39,6 +39,11 @@ namespace RedVsBlue
             Console.WriteLine("Ties: " + ties);
             Console.ForegroundColor = ConsoleColor.Yellow;
 
+            /*
+             * This program is boss!!!
+             * 
+             */
+
         }
     }
 }
