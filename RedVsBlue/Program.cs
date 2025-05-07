@@ -37,7 +37,7 @@ namespace RedVsBlue
             Console.WriteLine("Red wins: " + redWins);
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Ties: " + ties);
-            Console.ForegroundColor = ConsoleColor.White;
+            Console.ForegroundColor = ConsoleColor.Yellow;
 
         }
     }
